@@ -4,3 +4,4 @@
 
 ![cppcheck-action](https://github.com/stepin105384/biosensor/workflows/cppcheck-action/badge.svg)
 ![C/C++ CI](https://github.com/stepin105384/biosensor/workflows/C/C++%20CI/badge.svg)
+![Unit testing](https://github.com/stepin105384/biosensor/workflows/Unit%20testing/badge.svg)
